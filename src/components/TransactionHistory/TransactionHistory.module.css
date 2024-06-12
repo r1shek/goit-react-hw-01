@@ -1,0 +1,23 @@
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 18px;
+  text-align: left;
+}
+
+.table thead tr {
+  background-color: #333;
+  color: #ffffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.table th,
+.table td {
+  padding: 12px 15px;
+}
+
+.table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
